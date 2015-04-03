@@ -5,7 +5,7 @@ project automatic retractable landing gear
 
 Photo
 
-![](https://cloud.githubusercontent.com/assets/9403558/4783250/8031bea6-5d1e-11e4-90d2-cdc527286603.JPG)
+![](https://cloud.githubusercontent.com/assets/9403558/6982544/4e1175aa-da3d-11e4-974d-5ca9b28043de.jpg)
 
 by: tinnakon kheowree  
 
