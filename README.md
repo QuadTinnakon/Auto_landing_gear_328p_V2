@@ -27,6 +27,8 @@ https://www.facebook.com/tinnakonza
 
 3/04/2558  ,Auto_landing_gear_328p_V2.ino  ,,Write Retractable Landing Gear ,, Algorithm tin
 
+http://quad3d-tin.lnwshop.com/product/62/auto_landing_gear_328p
+
 support: 
 
 -arduino 328p
